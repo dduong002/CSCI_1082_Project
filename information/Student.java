@@ -56,7 +56,8 @@ public class Student extends Person
 	
 	public String toString() 
 	{
-		return "*****Student Information******\n"+super.toString() + "\nYear: "+ Year+"\nEnrollment Date: "+ enroll+ "\nActivites: "+ Act;
+		return "*****Student Information******\n"+super.toString() + "\nYear: "+ Year+"\nEnrollment Date: "+ 
+					enroll+ "\nActivites: "+ Act;
 	}
 	
 		
